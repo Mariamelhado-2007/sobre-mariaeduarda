@@ -11,8 +11,8 @@ WhatsApp: [Clique para conversar](https://wa.me/5544991034252)
 
 Sou Maria Eduarda, estudante de Ciências Contábeis e apaixonada por eficiência, organização e evolução contínua. Acredito que inovação não está apenas em códigos, mas também em ideias, pessoas e processos bem pensados.
 
-Atualmente, trabalho como auxiliar de logística, onde desenvolvi disciplina, visão de processo e resiliência. Estou buscando oportunidades para atuar em uma empresa que valorize pessoas, cultura e tecnologia — como a Interesses
-- Processos administrativos eficientes - Gestão financeira e contábil com tecnologia  
+Atualmente, trabalho como auxiliar de logística, onde desenvolvi disciplina, visão de processo e resiliência. Estou buscando oportunidades para atuar em uma empresa que valorize pessoas, cultura e tecnologia 
+- Processos administrativos eficientes - Gestão financeira e contábil 
 - Inovação nos bastidores (backoffice inteligente)  
 - Cultura organizacional moderna e colaborativa  
 - Experiência do cliente + automação  
@@ -36,7 +36,3 @@ Soft Skills
 - 💼 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-ferreira-melhado-1b5375364)  
 - 📧 Email: [maria.ferreira.melhado@gmail.com](mailto:maria.ferreira.melhado@gmail.com)  
 - 📱 WhatsApp: [Clique para conversar](https://wa.me/5544991034252)
-
----
-
-> “Pessoas certas, com atitude certa, transformam o ambiente certo.” 🌱
